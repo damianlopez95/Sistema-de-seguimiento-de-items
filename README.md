@@ -2,7 +2,7 @@
 
 Sistema de Seguimiento de Items: Proyecto integrador final para la materia "Ingeniería del Software I". UNTDF. 2do Año. 2018.
 
-Dessarrollo de aplicación de escritorio en el lenguaje Java.
+Desarrollo de aplicación de escritorio en el lenguaje Java.
 
 El trabajo intenta dar una solución a la gestión de proyectos informáticos en donde líderes de proyecto puedan administrar usuarios,
 sus roles, las actividades que realizan y dejar un registro de cada acción.
@@ -19,6 +19,7 @@ Tecnologías:
 - Lenguaje: Java
 - IDE: Eclipse
 - Interfaz: WindowBuilder (Eclipse)
-- Almacenamiento: en archivos .txt
+- Persistencia: en archivos .txt
 - Diseño del diagrama de clases: CasER
+
 - Patrón de diseño: MVC
